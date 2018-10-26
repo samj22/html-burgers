@@ -9,7 +9,7 @@
 .cheese {
   height: 15px;
   width: 65%;
-  background: #f2c120;
+  background: green;f2c120;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
@@ -40,7 +40,7 @@
 .pickle {
   height: 30px;
   width: 50%;
-  background: #3ac67d;
+  background: yellow 3ac67d;
   border-radius: 0 0 100px 100px;
   border-bottom: solid 10px #2d9961;
 }
